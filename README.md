@@ -9,10 +9,15 @@ The project is designed to help investors understand how commodities can enhance
 Features:
 
 Processes raw futures data into continuous contracts based on trading volume.
+
 Computes daily returns and correlation matrices.
+
 Implements Markowitz Efficient Frontier for portfolio optimization.
+
 Run Monte Carlo simulations to Identify the optimal portfolio weights that maximize Sharpe ratio.
+
 Visualizes results with Matplotlib, Seaborn, and Plotly (Screenshot of interactive graphs are included in the Image folder).
+
 
 
 
